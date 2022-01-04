@@ -1,6 +1,6 @@
 # Data Scraping
 
-Simple (or clever and funny?) description
+Simple data scraping program that reads html code from websites and prints it out in a easy to read fasion
 
 ## Table of Contents
 
