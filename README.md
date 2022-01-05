@@ -18,6 +18,7 @@ These are the steps to setup your local environment to run this
 application.
 
 Download python 3 [python](https://www.python.org/downloads/)
+to be able to use application
 
 ## Usage
 
